@@ -1,6 +1,8 @@
 本框架采用springboot+mybatis搭建
-springboot:2.0.2
-mybatis:1.3.0
+本项目使用的环境：
+	开发工具：Intellij IDEA 2017.1.3
+	springboot:2.0.2
+	mybatis:1.3.0
 额外功能
     PageHelper 分页插件
     mybatis generator 自动生成代码插件
