@@ -9,6 +9,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/***
+ * 业务实现类
+ * author:jaosn huan
+ * create date:2018－6－8
+ */
 @Service(value = "userService")
 public class UserServiceImpl implements UserService {
 

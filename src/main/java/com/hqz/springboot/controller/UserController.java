@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.beans.factory.annotation.Autowired;
 
+/***
+ * 控制层
+ * author:jaosn huan
+ * create date:2018－6－8
+ */
 @Controller
 @RequestMapping(value="/user")
 public class UserController {
